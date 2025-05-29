@@ -1,10 +1,19 @@
-# 🚀 Curso Backend com Node.js + TypeScript
+# 🚀 Projeto - Reserva de Veículos
 
-##Projeto - Reserva de Veículos
-Este é um projeto educacional **gratuito e voluntário** voltado para o ensino de desenvolvimento backend com **Node.js**, **TypeScript**, **Sequelize (ORM)** e **SQLite**. O intuito central é construir uma API para realizar a reservas de veículos usados por colaboradores de uma empresa, evitiando assim conflitos de agenda.
 
-O conteúdo é dividido em 10 aulas práticas e progressivas, com foco em ensinar desde o básico até a construção de uma API funcional com banco de dados e boas práticas de desenvolvimento.
+Este é um projeto educacional **gratuito e voluntário** voltado para o ensino de desenvolvimento backend. O objetivo central é disponibilizar uma API para realizar a reservas de veículos usados por colaboradores de uma empresa, evitiando assim conflitos de agenda.
 
+---
+
+##Tecnologias e estrutura das aulas
+
+Frameworks utilizados:
+- **Node.js**
+- **TypeScript**
+- **Sequelize (ORM)**
+- **SQLite**
+
+O conteúdo é dividido em 10 aulas práticas e progressivas, com foco em ensinar desde o básico até a construção de uma API funcional com banco de dados e boas práticas de 
 ---
 
 ## 🧑‍🏫 Público-alvo

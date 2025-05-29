@@ -7,16 +7,6 @@ O conteúdo é dividido em 10 aulas práticas e progressivas, com foco em ensina
 
 ---
 
-## 👩‍💻 Tecnologias e estrutura das aulas
-
-Frameworks utilizados:
-- **Node.js**
-- **TypeScript**
-- **Sequelize (ORM)**
-- **SQLite**
-
----
-
 ## 🧑‍🏫 Público-alvo
 
 Iniciantes em programação backend que já tenham alguma familiaridade com lógica de programação.

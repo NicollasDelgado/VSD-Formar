@@ -5,7 +5,7 @@ Este é um projeto educacional **gratuito e voluntário** voltado para o ensino 
 
 ---
 
-##Tecnologias e estrutura das aulas
+## 👩‍💻 Tecnologias e estrutura das aulas
 
 Frameworks utilizados:
 - **Node.js**

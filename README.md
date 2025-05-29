@@ -36,7 +36,6 @@ Cada aula possui um conteúdo teórico e prático, com arquivos `.md` explicativ
 - [Express.js](https://expressjs.com/)
 - [Sequelize ORM](https://sequelize.org/)
 - [SQLite](https://www.sqlite.org/index.html)
-- [ESLint](https://eslint.org/) + [Prettier](https://prettier.io/) para padronização de código
 
 ---
 
